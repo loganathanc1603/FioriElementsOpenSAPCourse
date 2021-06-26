@@ -46,7 +46,7 @@
                     "action": "manage",
                     "title": "Travel List Report",
                     "subTitle": "List Report",
-                    "icon": ""
+                    "icon": "sap-icon://flight"
                 }
             }
         }

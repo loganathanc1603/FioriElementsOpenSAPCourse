@@ -12,7 +12,8 @@ server:
       backend:
       - path: /sap
         url: https://6435ad91-7b7b-43e9-9152-4d8312a251ee.abap.eu10.hana.ondemand.com
-        scp: true
+        scp: true 
+        destination: abap-cloud-default_abap-trial
       ui5:
         path: 
         - /resources
